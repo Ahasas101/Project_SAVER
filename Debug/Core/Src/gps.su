@@ -1,0 +1,10 @@
+../Core/Src/gps.c:27:13:GpsGetData	8	static
+../Core/Src/gps.c:37:14:GpsGetRelevant	24	static
+../Core/Src/gps.c:66:6:GspInit	56	static
+../Core/Src/gps.c:78:12:GpsGetStatus	16	static
+../Core/Src/gps.c:92:10:GpsGetTime	16	static
+../Core/Src/gps.c:104:10:GpsGetLatitude	16	static
+../Core/Src/gps.c:116:10:GpsGetLongitute	16	static
+../Core/Src/gps.c:128:10:GpsGetSpeed	16	static
+../Core/Src/gps.c:140:10:GpsGetDate	16	static
+../Core/Src/gps.c:153:6:GpsCallbackHandler	8	static

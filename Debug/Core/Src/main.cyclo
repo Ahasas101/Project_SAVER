@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm4.h:1938:34:__NVIC_SystemReset	1
+../Core/Src/main.c:80:5:main	5
+../Core/Src/main.c:172:6:SystemClock_Config	3
+../Core/Src/main.c:214:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:247:13:MX_USART6_UART_Init	2
+../Core/Src/main.c:280:13:MX_GPIO_Init	1
+../Core/Src/main.c:307:13:buttoninit	1
+../Core/Src/main.c:319:13:errorhandler	1
+../Core/Src/main.c:336:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:355:6:Error_Handler	1
